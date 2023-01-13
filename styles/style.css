@@ -1,0 +1,38 @@
+section{
+    width: 100%;
+}
+.center {
+    display: block;
+    text-align: center;
+    
+}
+.ara {
+    background-color: #EEEEEE;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+table {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.sol {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+
+.orta {
+    width: 20%;
+    background-color: #70CCC2;
+    font-size: small;
+}
+
+.sag {
+    width: 50%;
+    background-color: #62B3AA;
+    font-size: small;
+
+}
+
